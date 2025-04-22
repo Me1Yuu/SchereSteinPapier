@@ -1,0 +1,14 @@
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\bin\Debug\net7.0\SchereSteinPapier.exe
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\bin\Debug\net7.0\SchereSteinPapier.deps.json
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\bin\Debug\net7.0\SchereSteinPapier.runtimeconfig.json
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\bin\Debug\net7.0\SchereSteinPapier.dll
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\bin\Debug\net7.0\SchereSteinPapier.pdb
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\obj\Debug\net7.0\SchereSteinPapier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\obj\Debug\net7.0\SchereSteinPapier.AssemblyInfoInputs.cache
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\obj\Debug\net7.0\SchereSteinPapier.AssemblyInfo.cs
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\obj\Debug\net7.0\SchereSteinPapier.csproj.CoreCompileInputs.cache
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\obj\Debug\net7.0\SchereSteinPapier.dll
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\obj\Debug\net7.0\refint\SchereSteinPapier.dll
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\obj\Debug\net7.0\SchereSteinPapier.pdb
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\obj\Debug\net7.0\SchereSteinPapier.genruntimeconfig.cache
+C:\Users\DanforthLeah\OneDrive - LG-Academy\Dokumente\Visual Studio 2022\WORK\Uebungen\SchereSteinPapier\obj\Debug\net7.0\ref\SchereSteinPapier.dll
